@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d605eda0-a1a4-4b65-886a-8814961842ff" /># 💫 About Me:
+# 💫 About Me:
 - 🔭 I’m currently working on building strong foundations in Data Structures & Algorithms and exploring real-world projects  <br>- 🤝 I’m looking to collaborate on open-source projects (especially beginner-friendly & GSoC orgs)  <br>- 🆘 I’m looking for help with advanced DSA, system design basics, and contributing effectively to large codebases  <br>- 🌱 I’m currently learning Java (deep dive), problem solving, and open-source workflows  <br>- 💬 Ask me about Java, basic DSA, regex, file handling, and my open-source journey  <br>- ⚡ Fun fact: Got my first PR merged in AnkiDroid 🚀 and still chasing that “perfect commit” feeling 😎
 
 
